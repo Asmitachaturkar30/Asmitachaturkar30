@@ -12,7 +12,7 @@
 ###
 
 <p align="left">✨ Creating bugs since ...<br>📚 I’m currently learning AWS Services and Backend Development<br> 🔭I’m currently working at Ambao Krishikutumb LLP<br>🎯 I’m looking to collaborate on open-source projects<br>🎲 Ask me about anything related to Python, Django, or backend development!<br>- 📫 How to reach me: 
-  - https://www.linkedin.com/in/asmita-chaturkar-b1a8271ba/
+  - https://www.linkedin.com/in/asmita-chaturkar-b1a8271ba/<br>
   - Email: asmitachaturkar@gmail.com</p>
 
 ###
