@@ -12,8 +12,8 @@
 ###
 
 <p align="left">✨ Creating bugs since ...<br>📚 I’m currently learning AWS Services and Backend Development<br> 🔭I’m currently working at Ambao Krishikutumb LLP<br>🎯 I’m looking to collaborate on open-source projects<br>🎲 Ask me about anything related to Python, Django, or backend development!<br>- 📫 How to reach me: 
-  - [LinkedIn](https://www.linkedin.com/in/asmita-chaturkar-b1a8271ba/)
-  - Email:  [asmitachaturkar@gmail.com](mailto:asmitachaturkar@gmail.com)</p>
+  - https://www.linkedin.com/in/asmita-chaturkar-b1a8271ba/
+  - Email: asmitachaturkar@gmail.com</p>
 
 ###
 
@@ -42,7 +42,7 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Asmitachaturkar30&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Asmitachaturkar30&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false)" height="150" alt="languages graph"  />
 </div>
 
 
