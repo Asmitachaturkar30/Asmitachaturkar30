@@ -1,21 +1,4 @@
-### Hi there, I'm Asmita Chaturkar! 👋
-
-**A passionate learner of Backend Development**
-
-- 🔭 I’m currently working at Ambao Krishikutumb LLP
-- 🌱 I’m currently learning AWS Services and Backend Development
-- 👯 I’m looking to collaborate on open-source projects
-- 💬 Ask me about anything related to Python, Django, or backend development!
-- 📫 How to reach me: 
-  - [LinkedIn](https://www.linkedin.com/in/asmita-chaturkar-b1a8271ba/)
-  - Email:  [asmitachaturkar@gmail.com](mailto:asmitachaturkar@gmail.com)
-
-**Languages and Tools:**
-Python, Django, PostgreSQL, HTML, CSS, AWS EC2 Service, VS Code, Postman, WINSPC
-----------------------------------------
-
-
-
+###
 <h1 align="left">Hi there, I'm Asmita Chaturkar! 👋</h1>
 
 ###
@@ -28,7 +11,9 @@ Python, Django, PostgreSQL, HTML, CSS, AWS EC2 Service, VS Code, Postman, WINSPC
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I’m currently learning AWS Services and Backend Development<br> 🔭I’m currently working at Ambao Krishikutumb LLP<br>🎯 I’m looking to collaborate on open-source projects<br>🎲 Ask me about anything related to Python, Django, or backend development!</p>
+<p align="left">✨ Creating bugs since ...<br>📚 I’m currently learning AWS Services and Backend Development<br> 🔭I’m currently working at Ambao Krishikutumb LLP<br>🎯 I’m looking to collaborate on open-source projects<br>🎲 Ask me about anything related to Python, Django, or backend development!<br>- 📫 How to reach me: 
+  - [LinkedIn](https://www.linkedin.com/in/asmita-chaturkar-b1a8271ba/)
+  - Email:  [asmitachaturkar@gmail.com](mailto:asmitachaturkar@gmail.com)</p>
 
 ###
 
@@ -55,13 +40,8 @@ Python, Django, PostgreSQL, HTML, CSS, AWS EC2 Service, VS Code, Postman, WINSPC
   
 </div>
 
-###
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
-###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
@@ -88,10 +68,6 @@ Python, Django, PostgreSQL, HTML, CSS, AWS EC2 Service, VS Code, Postman, WINSPC
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
@@ -99,7 +75,6 @@ Python, Django, PostgreSQL, HTML, CSS, AWS EC2 Service, VS Code, Postman, WINSPC
 ###
 
 <br clear="both">
-
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
