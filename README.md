@@ -1,6 +1,6 @@
 ### Hi there 👋
                                               👋I'm Asmita Chaturkar
-<!--
+
 **Asmitachaturkar30/Asmitachaturkar30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
                       A passionate learner of Backend Development
@@ -13,4 +13,4 @@
 - 📫 How to reach me: https://www.linkedin.com/in/asmita-chaturkar-b1a8271ba/
 Languages and Tools:
 html5 css3 sass bootstrap tailwind tailwind javascript javascript javascript mysql git java python photoshop linux Visual Studio Code
--->
+
