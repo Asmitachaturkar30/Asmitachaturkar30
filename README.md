@@ -1,9 +1,7 @@
 ### Hi there 👋
-                                              👋I'm Asmita Chaturkar
+                                              ###👋I'm Asmita Chaturkar
 
-**Asmitachaturkar30/Asmitachaturkar30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-                      A passionate learner of Backend Development
+                     ** A passionate learner of Backend Development**
 
 - 🔭 I’m currently working on Ambao Krishikutumb LLP
 - 🌱 I’m currently learning AWS Service,Backend Development
@@ -11,6 +9,6 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: https://www.linkedin.com/in/asmita-chaturkar-b1a8271ba/
-Languages and Tools:
-html5 css3 sass bootstrap tailwind tailwind javascript javascript javascript mysql git java python photoshop linux Visual Studio Code
+**Languages and Tools:**
+Python,Django,PostgreSql,Html,Css,Aws Ec2 Service,VS Code,Postman, WINSPC
 
