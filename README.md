@@ -8,7 +8,7 @@
 - 💬 Ask me about anything related to Python, Django, or backend development!
 - 📫 How to reach me: 
   - [LinkedIn](https://www.linkedin.com/in/asmita-chaturkar-b1a8271ba/)
-  - Email: asmitachaturkar.email@gmail.com
+  - Email:  [asmitachaturkar@gmail.com](mailto:asmitachaturkar@gmail.com)
 
 **Languages and Tools:**
 Python, Django, PostgreSQL, HTML, CSS, AWS EC2 Service, VS Code, Postman, WINSPC
