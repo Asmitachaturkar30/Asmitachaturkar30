@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">I'm a softwere Developer Intern,</p>
+<p align="left">I'm a softwere Developer </p>
 
 ###
 
