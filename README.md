@@ -3,11 +3,7 @@
 
 ###
 
-<p align="left">I'm a softwere Developer </p>
-
-###
-
-<h2 align="left">About me</h2>
+<h2 align="left">I'm a softwere Developer</h2>
 
 ###
 
